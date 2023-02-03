@@ -1,1 +1,3 @@
 Student has department
+
+There are 500 students
