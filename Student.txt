@@ -1,3 +1,5 @@
 Student has department
 
 There are 500 students
+
+Every student has three semister in a year.
